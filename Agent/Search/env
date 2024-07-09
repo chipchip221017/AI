@@ -1,0 +1,2 @@
+EMAIL_SENDER = ""   # Put your email 
+EMAIL_PASSWORD = ""  # Replace with your app-specific password
